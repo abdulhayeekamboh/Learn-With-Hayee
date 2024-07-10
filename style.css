@@ -31,6 +31,7 @@ body {
 	justify-content: space-around;
 	border-bottom: 0.7px solid #dadada;
 	background-color:#eee;
+	color:white;
 }
 .logo {
 	height:19vh;
@@ -56,6 +57,11 @@ body {
 	color: back;
 	text-decoration: none;
 	transition: 1.2s;
+	font-family:sans-serif;
+	
+}
+h4 {
+	color:black
 }
 .navbox a:hover{
 	color: rgb(104, 101, 101);
